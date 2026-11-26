@@ -1,0 +1,12 @@
+# Olivia's Portfolio
+
+> A personal portfolio featuring creative projects, ideas, and learning.
+
+This site is a small public portfolio. The homepage is the primary source for information about the portfolio.
+
+## Main page
+- https://oliviaeberwein.github.io/
+
+## Notes
+- Content is intentionally limited to publicly shareable portfolio material.
+- Please treat the site content as the source of truth; don't infer private details.

@@ -1,0 +1,9 @@
+{
+  "name": "Olivia's Portfolio",
+  "short_name": "Olivia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f4ee",
+  "theme_color": "#f8f4ee",
+  "description": "A creative portfolio featuring projects, ideas, and learning."
+}
